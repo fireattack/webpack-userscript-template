@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        webpack-userscript-template
 // @namespace   https://trim21.me/
-// @version     0.0.2
+// @version     0.0.1
 // @author      Trim21 <trim21me@gmail.com>
 // @source      https://github.com/Trim21/webpack-userscript-template
 // @match       http://www.example.com/*
